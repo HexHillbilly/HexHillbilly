@@ -13,7 +13,7 @@ My work sits at the intersection of agentic AI and bare-metal infrastructure —
 | Project | What it does |
 |---|---|
 | [hre-agent](https://github.com/HexHillbilly/hre-agent) | Autonomous homelab SRE agent — ReAct loop, permission-gated tooling, multi-agent routing (SRE / sec / git), Docker orchestration |
-| POD Factory *(coming soon)* | Closed-loop generative design pipeline — CrewAI swarm → ComfyUI → LLaVA vision critic → PostgreSQL → HITL dashboard. Runs headless overnight. |
+| [agenic-pod-factory](https://github.com/HexHillbilly/agenic-pod-factory) | Closed-loop generative design pipeline — CrewAI swarm → ComfyUI → LLaVA vision critic → PostgreSQL → HITL dashboard. Runs headless overnight. |
 | Ani-Plex *(coming soon)* | Smart CLI wrapper for anime library automation — Jikan API metadata, Plex-standard renaming, dub/sub fallback, duplicate-aware archive checking |
 
 ---
